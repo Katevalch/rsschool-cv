@@ -1,4 +1,6 @@
 # KATSIARYNA VALCHANKA
+![me](https://sun9-26.userapi.com/impg/vk2RAEabV7cZ_l0uCXU9938puXh4g_D2nV2AFw/5PBKGkwioF4.jpg?size=1728x2160&quality=95&sign=964bb0208018e1092b5813ae49ac49c3&type=album)
+
 --------
 ## Contact information:
 +     Phone: +375 (25) 931-92-77
@@ -11,7 +13,7 @@ I am well-mannered and tolerant so I can easily find an approach to any person. 
 
 Really into learning new languages and cultures.  
 
-During my study I have participated in numerous events in my university. Moreover I have been a volunteer at different sport events in my country including Second European Games in Minsk.
+During my study I have participated in numerous events at my university. Moreover I have been a volunteer at different sport events in my country including Second European Games in Minsk.
 
 I have experienced to work as a waitress, English and German teacher, tutor and a camp counselor.
 ## Education:
