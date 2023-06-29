@@ -1,6 +1,5 @@
 # KATSIARYNA VALCHANKA
 ![me](https://sun9-26.userapi.com/impg/vk2RAEabV7cZ_l0uCXU9938puXh4g_D2nV2AFw/5PBKGkwioF4.jpg?size=1728x2160&quality=95&sign=964bb0208018e1092b5813ae49ac49c3&type=album)
-
 --------
 ## Contact information:
 +     Phone: +375 (25) 931-92-77
@@ -30,6 +29,8 @@ I have experienced to work as a waitress, English and German teacher, tutor and 
 
 +     Tutor, Gomel
       since September 2022
+## Projects:
+[gh][https://github.com/Katevalch/rsschool-cv/tree/gh-pages]
 ---------------
 ## Languages:
 +     Russian - native
