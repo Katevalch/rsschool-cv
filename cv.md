@@ -30,7 +30,7 @@ I have experienced to work as a waitress, English and German teacher, tutor and 
 +     Tutor, Gomel
       since September 2022
 ## Projects:
-[gh][https://github.com/Katevalch/rsschool-cv/tree/gh-pages]
+[GH](https://github.com/Katevalch/rsschool-cv/tree/gh-pages)
 ---------------
 ## Languages:
 +     Russian - native
