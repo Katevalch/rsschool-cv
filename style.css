@@ -1,1 +1,11 @@
-<head>hi</head>
+h2 {
+    color: brown;
+}
+
+.aboutme {
+    background-color: aquamarine;
+}
+
+.cv {
+    text-align: center;
+}
